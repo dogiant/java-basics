@@ -8,4 +8,15 @@
   <artifactId>core</artifactId>
   <name>core java</name>
   <description>java核心api解析</description>
+  <dependencies>
+  		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>  
+		    <groupId>org.hamcrest</groupId>  
+		     <artifactId>hamcrest-all</artifactId>  
+		</dependency> 
+  </dependencies>
 </project>
